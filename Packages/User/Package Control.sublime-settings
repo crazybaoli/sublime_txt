@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"4GL",
+		"BracketHighlighter",
+		"C++ Snippets",
+		"ConvertToUTF8",
+		"CoolFormat",
+		"CTags",
+		"DocBlockr",
+		"Function Name Display",
+		"Package Control",
+		"Terminal",
+		"WakaTime",
+		"WordHighlight"
+	]
+}

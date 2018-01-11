@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+/********************************************************************************
+*
+*  File Name     : $TM_FILENAME
+*  Author   	 : baoli
+*  Create Date   : 2017.00.00
+*  Version       : 1.0
+*  Description   : xxx
+*  History       : 1. Data:
+*                     Author:
+*                     Modification:
+*
+********************************************************************************/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>heade</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++,source.c</scope>
+	<description>file header</description>
+</snippet>
+
+
+<snippet>
+	<content><![CDATA[
+Hello, ${1:this} is a ${2:snippet}.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.c++</scope> -->
+</snippet>
